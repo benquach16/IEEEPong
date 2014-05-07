@@ -1,0 +1,25 @@
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\hudFont.xnb
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\defaultFont.xnb
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\bkg.xnb
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\test.xnb
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.dll
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.pdb
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.dll
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.pdb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\hudFont.xnb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\defaultFont.xnb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\SpriteFonts\MyFont1.xnb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\MyFont1.xnb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\bkg.xnb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\test.xnb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\Artwork\ball.xnb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\Artwork\ball_particle.xnb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\Artwork\player.xnb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.dll
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.pdb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.dll
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.pdb
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.csprojResolveAssemblyReference.cache

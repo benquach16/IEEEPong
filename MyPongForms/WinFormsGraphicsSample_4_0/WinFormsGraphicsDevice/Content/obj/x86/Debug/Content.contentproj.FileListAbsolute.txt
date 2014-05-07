@@ -1,0 +1,2 @@
+C:\Users\Mark\Documents\GitHub\IEEEInterface - Copy\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache

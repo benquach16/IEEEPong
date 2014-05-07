@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>hudFont.spritefont</Source>
+      <Name>hudFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\hudFont.xnb</Output>
+      <Time>2014-03-24T17:03:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>defaultFont.spritefont</Source>
+      <Name>defaultFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\defaultFont.xnb</Output>
+      <Time>2014-03-24T17:04:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFonts\MyFont1.spritefont</Source>
+      <Name>SpriteFonts\MyFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\SpriteFonts\MyFont1.xnb</Output>
+      <Time>2014-04-01T13:34:38.3564-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MyFont1.spritefont</Source>
+      <Name>MyFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\MyFont1.xnb</Output>
+      <Time>2014-04-01T13:57:36.2844-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bkg.jpg</Source>
+      <Name>bkg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\bkg.xnb</Output>
+      <Time>2014-03-24T13:52:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>test.jpg</Source>
+      <Name>test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\test.xnb</Output>
+      <Time>2014-03-24T13:52:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Artwork\ball.png</Source>
+      <Name>Artwork\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\Artwork\ball.xnb</Output>
+      <Time>2014-03-31T10:29:01.4436-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Artwork\ball_particle.png</Source>
+      <Name>Artwork\ball_particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\Artwork\ball_particle.xnb</Output>
+      <Time>2014-03-31T10:29:01.4596-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Artwork\player.png</Source>
+      <Name>Artwork\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\Artwork\player.xnb</Output>
+      <Time>2014-04-04T13:52:45.5108-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Nine\Desktop\MyPong Forms\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-05T20:13:45.3332-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
